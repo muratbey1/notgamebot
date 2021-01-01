@@ -1,0 +1,2 @@
+# notgamebot
+eğlencebotu 
